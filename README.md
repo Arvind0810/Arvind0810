@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/Arvind0810">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&width=720&lines=%3E+go+run+main.go;Software+Engineer+%40+1Finance;Building+Go+microservices+%26+Next.js+apps;4%2B+years+shipping+production+code;Open+to+Go+%2F+PHP+%2F+Full-Stack+roles" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&width=720&lines=%3E+go+run+main.go;Software+Engineer+%40+1Finance;Building+Go+microservices+%26+Next.js+apps;5%2B+years+shipping+production+code;Open+to+Go+%2F+PHP+%2F+Full-Stack+roles" alt="typing" />
 </a>
 
 <br/>
