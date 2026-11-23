@@ -1,4 +1,4 @@
-<!-- GitHub profile README. The Next.js portfolio app shares this repo root; this file is what github.com/Arvind0810 renders. -->
+<!-- GitHub profile README rendered at github.com/Arvind0810. Work account: github.com/arvind-1fin. -->
 
 <div align="center">
 
@@ -72,14 +72,29 @@ location:   Mumbai, India
     </td>
     <td width="50%" valign="top">
       <h4>🌐 Personal portfolio</h4>
-      <p>My portfolio site — projects, experience, and writing. Source lives in this repository.</p>
-      <p><code>Next.js</code> <code>React</code></p>
+      <p>My portfolio site — projects, experience, and a downloadable resume.</p>
+      <p><code>Next.js</code> <code>React</code> <code>Tailwind CSS</code></p>
       <a href="https://www.arvind-sharma.co.in/">Visit site →</a>
     </td>
   </tr>
 </table>
 
-## 📊 GitHub activity
+## 💼 Professional work
+
+Most of my day-to-day engineering happens in private 1Finance repositories under my work account, **[@arvind-1fin](https://github.com/arvind-1fin)**. The card below counts those contributions; the code itself stays private.
+
+<div align="center">
+  <a href="https://github.com/arvind-1fin">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=arvind-1fin&theme=github-dark-blue&hide_border=true&background=00000000" />
+      <img src="https://streak-stats.demolab.com?user=arvind-1fin&theme=default&hide_border=true&background=00000000" alt="Contribution streak for the arvind-1fin work account" />
+    </picture>
+  </a>
+  <br/>
+  <a href="https://github.com/arvind-1fin"><img src="https://img.shields.io/badge/Work%20account-@arvind--1fin-181717?style=flat-square&logo=github&logoColor=white" alt="Work GitHub account: arvind-1fin" /></a>
+</div>
+
+## 📊 Personal GitHub activity
 
 <div align="center">
   <picture>
