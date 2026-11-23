@@ -1,139 +1,111 @@
+<!-- GitHub profile README. The Next.js portfolio app shares this repo root; this file is what github.com/Arvind0810 renders. -->
+
 <div align="center">
 
-<a href="https://github.com/Arvind0810">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00ADD8&height=190&section=header&text=Arvind%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Go%20%7C%20PHP%20%7C%20Distributed%20Systems&descSize=16&descAlignY=60" alt="Arvind Sharma — Backend Engineer" />
+<img alt="Arvind Sharma — Backend Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00ADD8&height=200&section=header&text=Arvind%20Sharma&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Go%20%C2%B7%20Distributed%20Systems&descSize=17&descAlignY=58" />
+
+<a href="https://www.arvind-sharma.co.in/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&width=560&lines=Building+reliable+backend+systems+in+Go;Microservices+%C2%B7+APIs+%C2%B7+PostgreSQL;Fintech+platforms+at+scale;6%2B+years+shipping+production+software" alt="Building reliable backend systems in Go" />
 </a>
 
 <p>
-  <a href="https://www.arvind-sharma.co.in/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
-  <a href="https://www.linkedin.com/in/arvind-sharma-888838b2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/arsharma1996"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:arsharma1996@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Arvind0810&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://www.arvind-sharma.co.in/"><img src="https://img.shields.io/badge/Portfolio-arvind--sharma.co.in-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/arvind-sharma-888838b2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/arsharma1996"><img src="https://img.shields.io/badge/X-@arsharma1996-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:arsharma1996@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Arvind0810&style=flat-square&color=0A66C2&label=Profile+views" alt="Profile views" />
 </p>
 
 </div>
 
-👋 About Me
-I'm a Software Engineer at 1Finance with 6+ years of experience building backend services, APIs, and web applications. My work focuses on reliable backend systems, fintech platforms, data-driven applications, and practical engineering solutions.
+## 👋 About me
 
-🌐 Portfolio: www.arvind-sharma.co.in
-- 🔧 Backend: Go, Fiber, GORM, PHP, Laravel, REST APIs
-- 🗄️ Data: PostgreSQL, MySQL, Redis
-- 🖥️ Frontend: Next.js, React, JavaScript, TypeScript, Material UI
-- 🚀 Engineering interests: Microservices, distributed systems, API design, event-driven architecture, observability, and CI/CD
-- 🧑‍💻 Previous teams: Geecon Systems, NeoSOFT, and Thinkbar
-- 📍 Location: Mumbai metropolitan region, India
-I enjoy solving backend problems, improving application reliability, and building systems that are easier to operate and maintain.
-🧰 Tech Stack
-Languages
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+I'm a **Software Engineer at 1Finance** with **6+ years** of experience building backend services, APIs, and web applications. I focus on reliable backend systems, fintech platforms, and data-driven products — systems that are easy to operate and pleasant to maintain.
+
+```yaml
+role:       Software Engineer @ 1Finance
+focus:      [Go microservices, API design, distributed systems, fintech]
+interests:  [event-driven architecture, observability, CI/CD]
+previously: [NeoSOFT, Geecon Systems, Thinkbar]
+location:   Mumbai, India
+```
+
+## 🧰 Tech stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,php,laravel,ts,js,python&perline=12" alt="Languages: Go, PHP, Laravel, TypeScript, JavaScript, Python" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,materialui&perline=12" alt="Frontend: Next.js, React, Redux, Tailwind CSS, Material UI" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,jenkins,githubactions,nginx,linux,git,postman&perline=12" alt="Data and DevOps: PostgreSQL, MySQL, Redis, Docker, Jenkins, GitHub Actions, Nginx, Linux, Git, Postman" />
+  </a>
 </p>
 
-Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Fiber-00ACD7?style=flat-square&logo=go&logoColor=white" alt="Fiber" />
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Gin" />
-  <img src="https://img.shields.io/badge/GORM-00ADD8?style=flat-square&logo=go&logoColor=white" alt="GORM" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+<p align="center">
+  <sub>Also: Fiber · Gin · GORM · gRPC · REST · Swagger · Node.js · Express</sub>
 </p>
 
-Frontend
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
-</p>
+## 🚀 Featured work
 
-Databases, DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
-</p>
-
-🚀 Featured Projects
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏦 1finance_Backend</h3>
-      <p>Go microservices for a fintech platform, including API gateway functionality, scoring, financial calculators, authentication, and blog services.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/Fiber-00ACD7?style=flat-square&logo=go&logoColor=white" alt="Fiber" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      </p>
-      <a href="https://github.com/1-Fin/1finance_Backend">View repository →</a>
+      <h4>🏦 Fintech microservices platform</h4>
+      <p>Go microservices behind an API gateway — scoring &amp; ranking, financial calculators, authentication, and content services on PostgreSQL.</p>
+      <p><code>Go</code> <code>Fiber</code> <code>GORM</code> <code>PostgreSQL</code> <code>Docker</code></p>
+      <sub>🔒 Private · 1Finance</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>📰 magazine_wordpress</h3>
-      <p>WordPress magazine platform with custom themes, plugins, and editorial workflow.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      </p>
-      <a href="https://github.com/1-Fin/magazine_wordpress">View repository →</a>
+      <h4>📰 Editorial magazine platform</h4>
+      <p>WordPress magazine with custom themes, plugins, and an editorial publishing workflow.</p>
+      <p><code>PHP</code> <code>WordPress</code> <code>MySQL</code></p>
+      <sub>🔒 Private · 1Finance</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎫 ticket-backend</h3>
-      <p>Backend for a ticketing system, covering REST APIs, role-based access, and ticket lifecycle management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-      </p>
-      <a href="https://github.com/DevelopersAtriina/ticket-backend">View repository →</a>
+      <h4>🎫 Ticketing system backend</h4>
+      <p>REST APIs with role-based access control and full ticket lifecycle management.</p>
+      <p><code>PHP</code> <code>Laravel</code> <code>MySQL</code></p>
+      <sub>🔒 Private · client work</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 atrina_website</h3>
-      <p>Responsive company website with marketing pages and CMS integration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      </p>
-      <a href="https://github.com/atrina-technologies-pvt-ltd/atrina_website">View repository →</a>
+      <h4>🌐 Personal portfolio</h4>
+      <p>My portfolio site — projects, experience, and writing. Source lives in this repository.</p>
+      <p><code>Next.js</code> <code>React</code></p>
+      <a href="https://www.arvind-sharma.co.in/">Visit site →</a>
     </td>
   </tr>
 </table>
 
-📊 GitHub Overview
+## 📊 GitHub activity
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arvind0810&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind0810&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arvind0810&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arvind0810&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind0810&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind0810&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000" alt="Most used languages" />
+  </picture>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Arvind0810&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Arvind0810&theme=github-dark-blue&hide_border=true&background=00000000" />
+    <img src="https://streak-stats.demolab.com?user=Arvind0810&theme=default&hide_border=true&background=00000000" alt="GitHub contribution streak" />
+  </picture>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arvind0810/Arvind0810/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Arvind0810/Arvind0810/output/github-snake.svg" alt="Contribution graph being eaten by a snake" />
+  </picture>
 </div>
 
-🤝 Let's Connect
-I'm always happy to connect with engineers, discuss backend architecture and fintech, share ideas, or explore interesting collaborations.
-- LinkedIn: Arvind Sharma
-- Email: arsharma1996@gmail.com
-- Portfolio: arvind-sharma.co.in
-- X: @arsharma1996
+## 🤝 Let's connect
+
+Always happy to talk backend architecture, fintech, or interesting collaborations — reach out on [LinkedIn](https://www.linkedin.com/in/arvind-sharma-888838b2/), [X](https://x.com/arsharma1996), or [email](mailto:arsharma1996@gmail.com).
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00ADD8&height=100&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:0A66C2&height=110&section=footer" alt="" />
 </div>

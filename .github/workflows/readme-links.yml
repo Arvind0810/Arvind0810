@@ -1,0 +1,32 @@
+name: README links
+
+on:
+  pull_request:
+    paths: [README.md]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      # Only the profile README is checked; the Next.js app at the repo root is out of scope.
+      # Dynamic stat/image services and sites that block bots are excluded to avoid flaky failures.
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --accept 200,206,429
+            --exclude-mail
+            --exclude 'linkedin\.com'
+            --exclude 'x\.com'
+            --exclude 'github-readme-stats\.vercel\.app'
+            --exclude 'streak-stats\.demolab\.com'
+            --exclude 'komarev\.com'
+            README.md
+          fail: true
